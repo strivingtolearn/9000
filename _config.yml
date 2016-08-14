@@ -3,7 +3,7 @@ description: "Very minimal theme for Jekyll aimed at personal blogging"
 author: oneohthree
 # url: "http://oneohthree.github.io"
 url:
-baseurl: /sudo-jekyll
+#baseurl: /sudo-jekyll
 twitter_username: unocerotres
 github_username:  oneohthree
 language: en_US
